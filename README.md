@@ -1,1 +1,1 @@
-# claude_knowledge_ai
+# knowledge_ai_documentation
